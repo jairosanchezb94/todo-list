@@ -1,13 +1,5 @@
 import React, { useCallback } from 'react'
-import {
-  HStack,
-  VStack,
-  Center,
-  Avatar,
-  Heading,
-  IconButton,
-  useColorModeValue
-} from 'native-base'
+import { HStack, VStack, Center, Avatar, Heading, IconButton, useColorModeValue } from 'native-base'
 import { DrawerContentComponentProps } from '@react-navigation/drawer'
 import AnimatedColorBox from './animated-color-box'
 import ThemeToggle from './theme-toggle'
@@ -66,14 +58,14 @@ const Sidebar = (props: DrawerContentComponentProps) => {
           onPress={handlePressMenuMain}
           icon="inbox"
         >
-          Tasks
+          Agregar tareas
         </MenuButton>
         <MenuButton
           active={currentRoute === 'About'}
           onPress={handlePressMenuAbout}
           icon="info"
         >
-          About
+          Sobre mí
         </MenuButton>
       </VStack>
       <Center>

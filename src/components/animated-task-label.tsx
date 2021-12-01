@@ -1,15 +1,6 @@
 import React, { useEffect, memo } from 'react'
 import { Pressable, Text, HStack, Box } from 'native-base'
-import Animated, {
-  Easing,
-  useSharedValue,
-  useAnimatedStyle,
-  withTiming,
-  withSequence,
-  withDelay,
-  interpolateColor
-} from 'react-native-reanimated'
-
+import Animated, { Easing, useSharedValue, useAnimatedStyle, withTiming, withSequence, withDelay, interpolateColor } from 'react-native-reanimated'
 interface Props {
   strikethrough: boolean
   textColor: string

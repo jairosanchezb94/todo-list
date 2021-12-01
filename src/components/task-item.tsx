@@ -19,17 +19,7 @@ interface Props extends Pick<PanGestureHandlerProps, 'simultaneousHandlers'> {
 }
 
 const TaskItem = (props: Props) => {
-  const {
-    isEditing,
-    isDone,
-    onToggleCheckbox,
-    subject,
-    onPressLabel,
-    onRemove,
-    onChangeSubject,
-    onFinishEditing,
-    simultaneousHandlers
-  } = props
+  const { isEditing, isDone, onToggleCheckbox, subject, onPressLabel, onRemove, onChangeSubject, onFinishEditing, simultaneousHandlers } = props
 
   const highlightColor = useToken(
     'colors',
@@ -37,7 +27,7 @@ const TaskItem = (props: Props) => {
   )
   const boxStroke = useToken(
     'colors',
-    useColorModeValue('muted.300', 'muted.500')
+    useColorModeValue('muted.600', 'muted.700')
   )
 
   const checkmarkColor = useToken('colors', useColorModeValue('white', 'white'))
@@ -66,7 +56,7 @@ const TaskItem = (props: Props) => {
         <Box
           w="full"
           h="full"
-          bg="red.500"
+          bg="red.600"
           alignItems="flex-end"
           justifyContent="center"
           pr={4}

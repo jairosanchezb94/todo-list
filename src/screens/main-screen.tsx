@@ -70,10 +70,10 @@ export default function MainScreen() {
         flex={1}
         space={1}
         bg={useColorModeValue('warmGray.50', 'primary.900')}
-        mt="-20px"
-        borderTopLeftRadius="20px"
-        borderTopRightRadius="20px"
-        pt="20px"
+        mt="-10px"
+        borderTopLeftRadius="10px"
+        borderTopRightRadius="10px"
+        pt="10px"
       >
         <TaskList
           data={data}

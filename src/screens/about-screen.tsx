@@ -1,13 +1,5 @@
 import React from 'react'
-import {
-  ScrollView,
-  Box,
-  Text,
-  VStack,
-  Icon,
-  Image,
-  useColorModeValue
-} from 'native-base'
+import { ScrollView, Box, Text, VStack, Icon, Image, useColorModeValue } from 'native-base'
 import { Feather } from '@expo/vector-icons'
 import AnimatedColorBox from '../components/animated-color-box'
 import Navbar from '../components/navbar'
@@ -28,11 +20,11 @@ const AboutScreen = () => {
         <Navbar />
       </Masthead>
       <ScrollView
-        borderTopLeftRadius="20px"
-        borderTopRightRadius="20px"
+        borderTopLeftRadius="10px"
+        borderTopRightRadius="10px"
         bg={useColorModeValue('warmGray.50', 'primary.900')}
-        mt="-20px"
-        pt="30px"
+        mt="-10px"
+        pt="10px"
         p={4}
       >
         <VStack flex={1} space={4}>
