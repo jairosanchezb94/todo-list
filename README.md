@@ -6,11 +6,13 @@ Gracias a https://expo.dev/tools se combarte en una app.
 
 Como podréis ver en las siguiente simagenes: 
 
-<img src="https://user-images.githubusercontent.com/32551746/144709567-e3fefea8-18be-41d0-b8dc-e29011a9040a.jpg" width="250"/>
-<img src="https://user-images.githubusercontent.com/32551746/144709570-81b283e7-8487-41ec-931b-780bb5cb18ed.jpg" width="250"/>
-![Screenshot_2021-12-04-13-33-22-875_host exp exponent](https://user-images.githubusercontent.com/32551746/144709571-8d7a165d-42e9-41e5-bd1e-1ba13f4117bc.jpg)
-![Screenshot_2021-12-04-13-33-26-579_host exp exponent](https://user-images.githubusercontent.com/32551746/144709572-9a74ffca-03dc-4f6b-8c53-0852cbceec60.jpg)
-![Screenshot_2021-12-04-13-33-29-684_host exp exponent](https://user-images.githubusercontent.com/32551746/144709573-8c65fe4d-2c76-4dd9-9910-73cd6ccc799f.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32551746/144709567-e3fefea8-18be-41d0-b8dc-e29011a9040a.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/32551746/144709570-81b283e7-8487-41ec-931b-780bb5cb18ed.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/32551746/144709571-8d7a165d-42e9-41e5-bd1e-1ba13f4117bc.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/32551746/144709572-9a74ffca-03dc-4f6b-8c53-0852cbceec60.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/32551746/144709573-8c65fe4d-2c76-4dd9-9910-73cd6ccc799f.jpg" width="250"/>
+</p>
 
 Este proyecto se ha realizado con la intención de crear una app para la Play Store.
 
