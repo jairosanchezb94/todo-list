@@ -1,10 +1,10 @@
 # Todo List
 
-Esta es mi app realizada en React con JavaScript y TypeScript, diseñada en CSS.
+This is my app made in React with JavaScript and TypeScript, designed in CSS.
 
-Gracias a https://expo.dev/tools se combarte en una app.
+Thanks to https://expo.dev/tools it can be combarte in an app.
 
-Como podréis ver en las siguiente simagenes: 
+As you can see in the following pictures:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32551746/144709567-e3fefea8-18be-41d0-b8dc-e29011a9040a.jpg" width="250"/>
@@ -14,7 +14,7 @@ Como podréis ver en las siguiente simagenes:
   <img src="https://user-images.githubusercontent.com/32551746/144709573-8c65fe4d-2c76-4dd9-9910-73cd6ccc799f.jpg" width="250"/>
 </p>
 
-Este proyecto se ha realizado con la intención de crear una app para la Play Store.
+This project has been carried out with the intention of creating an app for the Play Store.
 
 # Expo Go 
 
